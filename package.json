@@ -1,0 +1,18 @@
+{
+  "name": "graphql-tutorial",
+  "version": "1.0.0",
+  "description": "GraphQL Tech Demo",
+  "main": "app.js",
+  "scripts": {
+    "dev:server": "nodemon app.js",
+    "json:server": "json-server --watch data.json"
+  },
+  "author": "Perry Craft",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.15.3",
+    "express-graphql": "^0.6.7",
+    "graphql": "^0.10.5",
+    "nodemon": "^1.11.0"
+  }
+}

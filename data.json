@@ -1,0 +1,40 @@
+{
+  "customers": [
+    {
+      "id": 1,
+      "name": "John Doe",
+      "email": "test@gmail.com",
+      "age": 31
+    },
+    {
+      "id": 3,
+      "name": "Molly Wright",
+      "email": "test@gmail.com",
+      "age": 25
+    },
+    {
+      "id": 4,
+      "name": "Stephanie Craft",
+      "email": "test@gmail.com",
+      "age": 26
+    },
+    {
+      "id": 5,
+      "name": "Lj Craft",
+      "email": "test@gmail.com",
+      "age": 31
+    },
+    {
+      "id": 6,
+      "name": "Byron Buyck",
+      "email": "test@gmail.com",
+      "age": 31
+    },
+    {
+      "name": "Loring Ellison",
+      "email": "test@gmail.com",
+      "age": 31,
+      "id": 7
+    }
+  ]
+}
